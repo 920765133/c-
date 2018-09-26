@@ -1,0 +1,154 @@
+﻿生成启动时间为 2018/7/4 22:55:07。
+     1>项目“C:\Users\Administrator\Desktop\新建文件夹\11\11\11.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\11.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\c++\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 1.c
+         1.c
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(80): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(84): warning C4098: “fun”:“void”函数返回值
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(169): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(174): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(178): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(185): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(194): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(219): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(224): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(240): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(256): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(262): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(268): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(277): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(296): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(313): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(320): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(322): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(324): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(326): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(329): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(338): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(350): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(365): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(373): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(378): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(383): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(385): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(387): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(389): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(400): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(404): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(412): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(426): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(439): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(448): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(458): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(480): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(500): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(506): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(507): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(514): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(529): warning C4098: “word”:“void”函数返回值
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(495): warning C4101: “n”: 未引用的局部变量
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(498): warning C4101: “password”: 未引用的局部变量
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(537): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(544): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(545): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(550): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(555): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(557): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(560): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(587): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(597): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(612): warning C4098: “help”:“void”函数返回值
+     1>c:\users\administrator\desktop\新建文件夹\11\11\1.c(629): warning C4098: “jindutiao”:“void”函数返回值
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         F:\c++\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\新建文件夹\11\Debug\11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\11.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\新建文件夹\11\Debug\11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\新建文件夹\11\Debug\11.lib" /MACHINE:X86 Debug\11.exe.embed.manifest.res
+         Debug\1.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\11.exe.embed.manifest" /manifest Debug\11.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         11.vcxproj -> C:\Users\Administrator\Desktop\新建文件夹\11\Debug\11.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\11.unsuccessfulbuild”。
+         正在对“Debug\11.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\新建文件夹\11\11\11.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.30

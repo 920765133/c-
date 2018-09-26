@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "鸡兔同笼", "鸡兔同笼\鸡兔同笼.vcxproj", "{E76D4049-D598-4E4A-A97C-E545DC3A4E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E76D4049-D598-4E4A-A97C-E545DC3A4E6A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E76D4049-D598-4E4A-A97C-E545DC3A4E6A}.Debug|Win32.Build.0 = Debug|Win32
+		{E76D4049-D598-4E4A-A97C-E545DC3A4E6A}.Release|Win32.ActiveCfg = Release|Win32
+		{E76D4049-D598-4E4A-A97C-E545DC3A4E6A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,154 @@
+﻿生成启动时间为 2018/7/4 20:15:12。
+     1>项目“C:\Users\Administrator\Desktop\c++\作业\keshe\keshe\keshe.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\keshe.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\c++\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt keshe.c
+         keshe.c
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(10): warning C4005: “LEN”: 宏重定义
+                 c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(7) : 参见“LEN”的前一个定义
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(75): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(79): warning C4098: “fun”:“void”函数返回值
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(152): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(156): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(161): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(166): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(168): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(170): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(172): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(177): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(185): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(195): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(210): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(215): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(231): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(247): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(253): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(259): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(268): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(287): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(304): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(311): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(313): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(315): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(317): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(320): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(329): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(341): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(356): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(364): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(369): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(374): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(376): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(378): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(380): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(382): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(391): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(395): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(403): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(417): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(430): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(439): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\c++\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(449): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(471): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(491): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(497): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(498): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(505): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(520): warning C4098: “word”:“void”函数返回值
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(486): warning C4101: “n”: 未引用的局部变量
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(489): warning C4101: “password”: 未引用的局部变量
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(528): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(535): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(536): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(541): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(546): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(548): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(551): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(578): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c++\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(586): warning C4098: “help”:“void”函数返回值
+     1>c:\users\administrator\desktop\c++\作业\keshe\keshe\keshe.c(603): warning C4098: “jindutiao”:“void”函数返回值
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         F:\c++\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\c++\作业\keshe\Debug\keshe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\keshe.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\c++\作业\keshe\Debug\keshe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\c++\作业\keshe\Debug\keshe.lib" /MACHINE:X86 Debug\keshe.exe.embed.manifest.res
+         Debug\keshe.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\keshe.exe.embed.manifest" /manifest Debug\keshe.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         keshe.vcxproj -> C:\Users\Administrator\Desktop\c++\作业\keshe\Debug\keshe.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\keshe.unsuccessfulbuild”。
+         正在对“Debug\keshe.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\c++\作业\keshe\keshe\keshe.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.93

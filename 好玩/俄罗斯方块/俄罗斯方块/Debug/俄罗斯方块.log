@@ -1,0 +1,116 @@
+﻿生成启动时间为 2018/4/22 17:50:54。
+     1>项目“C:\Users\Administrator\Desktop\c++\好玩\俄罗斯方块\俄罗斯方块\俄罗斯方块.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\Administrator\Desktop\c++\好玩\俄罗斯方块\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\俄罗斯方块.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\c++\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "俄罗斯方块.c"
+         俄罗斯方块.c
+     1>f:\c++\vc\include\ctime(18): error C2054: 在“using”之后应输入“(”
+     1>f:\c++\vc\include\ctime(18): error C2061: 语法错误: 标识符“using”
+     1>f:\c++\vc\include\ctime(19): error C2054: 在“using”之后应输入“(”
+     1>f:\c++\vc\include\ctime(19): error C2061: 语法错误: 标识符“using”
+     1>f:\c++\vc\include\ctime(20): error C2061: 语法错误: 标识符“asctime”
+     1>f:\c++\vc\include\ctime(20): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(20): error C2061: 语法错误: 标识符“clock”
+     1>f:\c++\vc\include\ctime(20): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(20): error C2061: 语法错误: 标识符“ctime”
+     1>f:\c++\vc\include\ctime(20): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(21): error C2061: 语法错误: 标识符“difftime”
+     1>f:\c++\vc\include\ctime(21): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(21): error C2061: 语法错误: 标识符“gmtime”
+     1>f:\c++\vc\include\ctime(21): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(21): error C2061: 语法错误: 标识符“localtime”
+     1>f:\c++\vc\include\ctime(21): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(22): error C2061: 语法错误: 标识符“mktime”
+     1>f:\c++\vc\include\ctime(22): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(22): error C2061: 语法错误: 标识符“strftime”
+     1>f:\c++\vc\include\ctime(22): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\ctime(22): error C2061: 语法错误: 标识符“time”
+     1>f:\c++\vc\include\ctime(22): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(38): error C2054: 在“using”之后应输入“(”
+     1>f:\c++\vc\include\cstdio(40): error C2061: 语法错误: 标识符“using”
+     1>f:\c++\vc\include\cstdio(40): error C2054: 在“using”之后应输入“(”
+     1>f:\c++\vc\include\cstdio(40): error C2061: 语法错误: 标识符“using”
+     1>f:\c++\vc\include\cstdio(41): error C2061: 语法错误: 标识符“clearerr”
+     1>f:\c++\vc\include\cstdio(41): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(41): error C2061: 语法错误: 标识符“fclose”
+     1>f:\c++\vc\include\cstdio(41): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(41): error C2061: 语法错误: 标识符“feof”
+     1>f:\c++\vc\include\cstdio(41): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(42): error C2061: 语法错误: 标识符“ferror”
+     1>f:\c++\vc\include\cstdio(42): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(42): error C2061: 语法错误: 标识符“fflush”
+     1>f:\c++\vc\include\cstdio(42): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(42): error C2061: 语法错误: 标识符“fgetc”
+     1>f:\c++\vc\include\cstdio(42): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(43): error C2061: 语法错误: 标识符“fgetpos”
+     1>f:\c++\vc\include\cstdio(43): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(43): error C2061: 语法错误: 标识符“fgets”
+     1>f:\c++\vc\include\cstdio(43): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(43): error C2061: 语法错误: 标识符“fopen”
+     1>f:\c++\vc\include\cstdio(43): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(44): error C2061: 语法错误: 标识符“fprintf”
+     1>f:\c++\vc\include\cstdio(44): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(44): error C2061: 语法错误: 标识符“fputc”
+     1>f:\c++\vc\include\cstdio(44): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(44): error C2061: 语法错误: 标识符“fputs”
+     1>f:\c++\vc\include\cstdio(44): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(45): error C2061: 语法错误: 标识符“fread”
+     1>f:\c++\vc\include\cstdio(45): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(45): error C2061: 语法错误: 标识符“freopen”
+     1>f:\c++\vc\include\cstdio(45): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(45): error C2061: 语法错误: 标识符“fscanf”
+     1>f:\c++\vc\include\cstdio(45): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(46): error C2061: 语法错误: 标识符“fseek”
+     1>f:\c++\vc\include\cstdio(46): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(46): error C2061: 语法错误: 标识符“fsetpos”
+     1>f:\c++\vc\include\cstdio(46): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(46): error C2061: 语法错误: 标识符“ftell”
+     1>f:\c++\vc\include\cstdio(46): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(47): error C2061: 语法错误: 标识符“fwrite”
+     1>f:\c++\vc\include\cstdio(47): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(47): error C2061: 语法错误: 标识符“getc”
+     1>f:\c++\vc\include\cstdio(47): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(47): error C2061: 语法错误: 标识符“getchar”
+     1>f:\c++\vc\include\cstdio(47): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(48): error C2061: 语法错误: 标识符“gets”
+     1>f:\c++\vc\include\cstdio(48): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(48): error C2061: 语法错误: 标识符“perror”
+     1>f:\c++\vc\include\cstdio(48): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(49): error C2061: 语法错误: 标识符“putc”
+     1>f:\c++\vc\include\cstdio(49): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(49): error C2061: 语法错误: 标识符“putchar”
+     1>f:\c++\vc\include\cstdio(49): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(50): error C2061: 语法错误: 标识符“printf”
+     1>f:\c++\vc\include\cstdio(50): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(50): error C2061: 语法错误: 标识符“puts”
+     1>f:\c++\vc\include\cstdio(50): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(50): error C2061: 语法错误: 标识符“remove”
+     1>f:\c++\vc\include\cstdio(50): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(51): error C2061: 语法错误: 标识符“rename”
+     1>f:\c++\vc\include\cstdio(51): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(51): error C2061: 语法错误: 标识符“rewind”
+     1>f:\c++\vc\include\cstdio(51): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(51): error C2061: 语法错误: 标识符“scanf”
+     1>f:\c++\vc\include\cstdio(51): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(52): error C2061: 语法错误: 标识符“setbuf”
+     1>f:\c++\vc\include\cstdio(52): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(52): error C2061: 语法错误: 标识符“setvbuf”
+     1>f:\c++\vc\include\cstdio(52): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(52): error C2061: 语法错误: 标识符“sprintf”
+     1>f:\c++\vc\include\cstdio(52): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(53): error C2061: 语法错误: 标识符“sscanf”
+     1>f:\c++\vc\include\cstdio(53): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(53): error C2061: 语法错误: 标识符“tmpfile”
+     1>f:\c++\vc\include\cstdio(53): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(53): error C2061: 语法错误: 标识符“tmpnam”
+     1>f:\c++\vc\include\cstdio(53): error C2059: 语法错误:“;”
+     1>f:\c++\vc\include\cstdio(54): error C2061: 语法错误: 标识符“ungetc”
+     1>f:\c++\vc\include\cstdio(54): fatal error C1003: 错误计数超过 100；正在停止编译
+     1>已完成生成项目“C:\Users\Administrator\Desktop\c++\好玩\俄罗斯方块\俄罗斯方块\俄罗斯方块.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.54

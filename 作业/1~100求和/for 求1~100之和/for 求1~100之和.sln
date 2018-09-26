@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "for 求1~100之和", "for 求1~100之和\for 求1~100之和.vcxproj", "{5BD13EB5-B2DA-4348-BBB0-232E67186A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD13EB5-B2DA-4348-BBB0-232E67186A94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BD13EB5-B2DA-4348-BBB0-232E67186A94}.Debug|Win32.Build.0 = Debug|Win32
+		{5BD13EB5-B2DA-4348-BBB0-232E67186A94}.Release|Win32.ActiveCfg = Release|Win32
+		{5BD13EB5-B2DA-4348-BBB0-232E67186A94}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
